@@ -1,0 +1,17 @@
+db_ccc_account db_ccc_account 10.24.99.238 5002 db_ccc_account False
+db_ccc_common db_ccc_common 10.24.84.137 5002 db_ccc_common False
+db_ccc_creditpay db_ccc_creditpay 10.24.99.238 5002 db_ccc_creditpay False
+db_ccc_limit db_ccc_limit 10.24.99.238 5002 db_ccc_limit False
+db_ccc_charge db_ccc_charge 10.24.99.238 5002 db_ccc_charge False
+db_ccc_frequency db_ccc_frequency 10.24.99.238 5002 db_ccc_frequency False
+db_ccc_customer db_ccc_customer 10.24.99.238 5002 db_ccc_customer False
+db_ccc_contract db_ccc_contract 10.24.99.238 5002 db_ccc_contract False
+db_ccc_cif db_ccc_cif 10.24.99.238 5002 db_ccc_cif False
+db_ccc_loan db_ccc_loan 10.24.99.238 5002 db_ccc_loan False
+db_ccc_performan db_ccc_performan 10.24.99.238 5002 db_ccc_performance False
+db_ccc_media db_ccc_media 10.24.99.238 5002 db_ccc_media False
+db_ccc_accountin db_ccc_accountin 10.84.227.157 5002 db_ccc_accounting False
+db_ccc_batch db_ccc_batch 10.84.227.157 5002 db_ccc_batch False
+db_ccc_mkt db_ccc_mkt 10.84.227.157 5002 db_ccc_mkt False
+db_ccc_luban db_ccc_luban 10.84.227.157 5002 db_ccc_luban False
+db_ccc_block db_ccc_block 10.24.99.238 5002 db_ccc_block False
